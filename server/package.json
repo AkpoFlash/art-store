@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cuid": "^2.1.8",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.9.4",
     "prettier": "^2.0.2",
     "validator": "^13.0.0"
